@@ -1,2 +1,2 @@
-# redis learn
+# Redis
 - Spring Boot
